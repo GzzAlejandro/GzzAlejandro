@@ -7,7 +7,7 @@
 
   [![Coursera](https://img.shields.io/badge/Certificación-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/f080234e1894bde5f2c8205c8bec412e)
   [![Credly](https://img.shields.io/badge/Insignias-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/oscar-alejandro-gonzalez-carillo)
-  [![Email](https://img.shields.io/badge/Contacto-Correo_Electrónico-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gzzalejandro2005@ejemplo.com)
+  [![Email](https://img.shields.io/badge/Contacto-Correo_Electrónico-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gzzalejandro2005@gmail.com)
   
 ---
 
