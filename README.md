@@ -1,14 +1,16 @@
 <div align="center">
 
-  #  ¡Hola! , soy Oscar Alejandro González Carrillo
+# ¡Hola! 👋, soy Oscar Alejandro González Carrillo
 
-  ### **Estudiante de Inteligencia Artificial y Ciencia de los Datos**
-  *(Centro Universitario de Guadalajara — Universidad de Guadalajara)*
+### **Estudiante de Inteligencia Artificial y Ciencia de los Datos**
+*(Centro Universitario de Guadalajara — Universidad de Guadalajara)*
 
-  [![Coursera](https://img.shields.io/badge/Certificación-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/f080234e1894bde5f2c8205c8bec412e)
-  [![Credly](https://img.shields.io/badge/Insignias-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/oscar-alejandro-gonzalez-carillo)
-  [![Email](https://img.shields.io/badge/Contacto-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gzzalejandro2005@gmail.com)
-  
+[![Coursera](https://img.shields.io/badge/Certificación-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/f080234e1894bde5f2c8205c8bec412e)
+[![Credly](https://img.shields.io/badge/Insignias-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/oscar-alejandro-gonzalez-carillo)
+[![Email](https://img.shields.io/badge/Contacto-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gzzalejandro2005@gmail.com)
+
+</div>
+
 ---
 
 ### 📌 Sobre mí
@@ -18,7 +20,7 @@
 - 🤖 **IA & Automatización:** Implementación de **Agentes de IA y LLMs** para optimizar pipelines analíticos, agilizar el preprocesamiento y acelerar la extracción de insights.
 - 📚 **En formación continua este semestre:**
   - Machine Learning
-  - Bases de Datos
+  - Bases de Datos (Relacionales y NoSQL)
   - Programación II
   - Matemáticas Aplicadas a Ciencia de Datos
 
@@ -40,6 +42,7 @@
 
 #### **Bases de Datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### **Herramientas de Desarrollo & Flujo Asistido**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,10 +56,12 @@
 
 ### 🚀 Proyecto Destacado
 
-> **Objetivo:** Análisis exploratorio  de datos históricos de los procesos de admisión de la Universidad de Guadalajara para modelar la evolución de puntajes mínimos de corte, identificar carreras con mayor demanda y revelar tendencias por centro universitario.
+#### 📊 Análisis Histórico de Exámenes de Admisión — UDG
+
+> **Objetivo:** Análisis exploratorio de datos históricos de los procesos de admisión de la Universidad de Guadalajara para modelar la evolución de puntajes mínimos de corte, identificar carreras con mayor demanda y revelar tendencias por centro universitario.
 >
 > - **Tecnologías:** `Python` • `Pandas` • `Matplotlib` • `Seaborn` • `MySQL`
-> - **Entregables:** Detección de patrones de selectividad, dashboards estáticos comparativos y normalización de series de tiempo de aspirantes vs. admitidos.
+> - **Entregables:** Detección de patrones de selectividad, dashboards comparativos y normalización de series de tiempo de aspirantes vs. admitidos.
 > - **Automatización:** Uso de agentes de IA para la validación y limpieza automatizada de anomalías en los registros históricos.
 
 ---
@@ -68,4 +73,23 @@
 
 * 🏅 **[Ruta de Formación: Análisis de Datos con Python](https://www.credly.com/users/oscar-alejandro-gonzalez-carillo)** — *Skilling Center Tecmilenio (Credly)*  
   Acreditación de competencias técnicas en programación aplicada a datos, manipulación de datasets y computación numérica.
+
 ---
+
+### 📈 Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GzzAlejandro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GzzAlejandro&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GzzAlejandro&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
+</div>
+
+---
+
+- ✉️ **Correo:** [gzzalejandro2005@gmail.com](mailto:gzzalejandro2005@gmail.com)
+- 🐙 **GitHub:** Explora mis repositorios públicos y proyectos en desarrollo aquí mismo.
